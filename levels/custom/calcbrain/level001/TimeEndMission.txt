@@ -1,0 +1,17 @@
+extern void object::TimeEndMission()
+{
+	
+	float time = 0;
+	float timeLife = 10.00;
+	object Space;
+	Space = SpaceShip;
+	
+	while(true)
+	{
+				
+			Space.takeoff ( );
+			break;
+
+	}
+	
+}

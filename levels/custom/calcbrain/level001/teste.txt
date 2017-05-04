@@ -1,0 +1,5 @@
+extern void object::teste()
+{
+	int cat = category;
+	message(cat);	
+}
