@@ -23,42 +23,42 @@ TerrainGenerate     vision=550.00 depth=1 hard=0.7
 TerrainWind 		speed= 2;-6
 TerrainRelief       image="%lvl%/relief02.bmp" factor=1.0 border=0
 TerrainResource 	image="%lvl%/res01.bmp"
-TerrainWater	    image="%chap%/water.png" level=32.0 moveX=3.0 moveY=4.0 color=20;150;180;0 brightness=0.2
+//TerrainWater	    image="%chap%/water.png" level=32.0 moveX=3.0 moveY=4.0 color=20;150;180;0 brightness=0.2
 
 
-TerrainMaterial id=1 	image="%chap%/textures/Aroca2" u=0.00 v=0.00 up=1 down=1 left=1 right=1 hard=0.8
-TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.25 v=0.00 up=2 down=1 left=1 right=1 hard=0.6
-TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.50 v=0.00 up=1 down=1 left=1 right=2 hard=0.6
-TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.75 v=0.00 up=2 down=1 left=1 right=2 hard=0.6
-TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.00 v=0.25 up=1 down=2 left=1 right=1 hard=0.6
-TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.25 v=0.25 up=2 down=2 left=1 right=1 hard=0.6
-TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.50 v=0.25 up=1 down=2 left=1 right=2 hard=0.6
-TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.75 v=0.25 up=2 down=2 left=1 right=2 hard=0.6
-TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.00 v=0.50 up=1 down=1 left=2 right=1 hard=0.6
-TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.25 v=0.50 up=2 down=1 left=2 right=1 hard=0.6
-TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.50 v=0.50 up=1 down=1 left=2 right=2 hard=0.6
-TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.75 v=0.50 up=2 down=1 left=2 right=2 hard=0.6
-TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.00 v=0.75 up=1 down=2 left=2 right=1 hard=0.6
-TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.25 v=0.75 up=2 down=2 left=2 right=1 hard=0.6
-TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.50 v=0.75 up=1 down=2 left=2 right=2 hard=0.6
-TerrainMaterial id=2 	image="%chap%/textures/Aroca2" u=0.75 v=0.75 up=2 down=2 left=2 right=2 hard=0.3
+TerrainMaterial id=1 	image="%chap%/textures/Arocb3" u=0.00 v=0.00 up=1 down=1 left=1 right=1 hard=0.8
+TerrainMaterial 		image="%chap%/textures/Arocb3" u=0.25 v=0.00 up=2 down=1 left=1 right=1 hard=0.6
+TerrainMaterial 		image="%chap%/textures/Arocb3" u=0.50 v=0.00 up=1 down=1 left=1 right=2 hard=0.6
+TerrainMaterial 		image="%chap%/textures/Arocb3" u=0.75 v=0.00 up=2 down=1 left=1 right=2 hard=0.6
+TerrainMaterial 		image="%chap%/textures/Arocb3" u=0.00 v=0.25 up=1 down=2 left=1 right=1 hard=0.6
+TerrainMaterial 		image="%chap%/textures/Arocb3" u=0.25 v=0.25 up=2 down=2 left=1 right=1 hard=0.6
+TerrainMaterial 		image="%chap%/textures/Arocb3" u=0.50 v=0.25 up=1 down=2 left=1 right=2 hard=0.6
+TerrainMaterial 		image="%chap%/textures/Arocb3" u=0.75 v=0.25 up=2 down=2 left=1 right=2 hard=0.6
+TerrainMaterial 		image="%chap%/textures/Arocb3" u=0.00 v=0.50 up=1 down=1 left=2 right=1 hard=0.6
+TerrainMaterial 		image="%chap%/textures/Arocb3" u=0.25 v=0.50 up=2 down=1 left=2 right=1 hard=0.6
+TerrainMaterial 		image="%chap%/textures/Arocb3" u=0.50 v=0.50 up=1 down=1 left=2 right=2 hard=0.6
+TerrainMaterial 		image="%chap%/textures/Arocb3" u=0.75 v=0.50 up=2 down=1 left=2 right=2 hard=0.6
+TerrainMaterial 		image="%chap%/textures/Arocb3" u=0.00 v=0.75 up=1 down=2 left=2 right=1 hard=0.6
+TerrainMaterial 		image="%chap%/textures/Arocb3" u=0.25 v=0.75 up=2 down=2 left=2 right=1 hard=0.6
+TerrainMaterial 		image="%chap%/textures/Arocb3" u=0.50 v=0.75 up=1 down=2 left=2 right=2 hard=0.6
+TerrainMaterial id=2 	image="%chap%/textures/Arocb3" u=0.75 v=0.75 up=2 down=2 left=2 right=2 hard=0.3
 
-TerrainMaterial id=3 	image="%chap%/textures/Arocb2" u=0.00 v=0.00 up=1 down=1 left=1 right=1 hard=0.8
-TerrainMaterial 		image="%chap%/textures/Arocb2" u=0.25 v=0.00 up=3 down=1 left=1 right=1 hard=0.4
-TerrainMaterial 		image="%chap%/textures/Arocb2" u=0.50 v=0.00 up=1 down=1 left=1 right=3 hard=0.4
-TerrainMaterial 		image="%chap%/textures/Arocb2" u=0.75 v=0.00 up=3 down=1 left=1 right=3 hard=0.4
-TerrainMaterial 		image="%chap%/textures/Arocb2" u=0.00 v=0.25 up=1 down=3 left=1 right=1 hard=0.4
-TerrainMaterial 		image="%chap%/textures/Arocb2" u=0.25 v=0.25 up=3 down=3 left=1 right=1 hard=0.4
-TerrainMaterial 		image="%chap%/textures/Arocb2" u=0.50 v=0.25 up=1 down=3 left=1 right=3 hard=0.4
-TerrainMaterial 		image="%chap%/textures/Arocb2" u=0.75 v=0.25 up=3 down=3 left=1 right=3 hard=0.4
-TerrainMaterial 		image="%chap%/textures/Arocb2" u=0.00 v=0.50 up=1 down=1 left=3 right=1 hard=0.4
-TerrainMaterial 		image="%chap%/textures/Arocb2" u=0.25 v=0.50 up=3 down=1 left=3 right=1 hard=0.4
-TerrainMaterial 		image="%chap%/textures/Arocb2" u=0.50 v=0.50 up=1 down=1 left=3 right=3 hard=0.4
-TerrainMaterial 		image="%chap%/textures/Arocb2" u=0.75 v=0.50 up=3 down=1 left=3 right=3 hard=0.4
-TerrainMaterial 		image="%chap%/textures/Arocb2" u=0.00 v=0.75 up=1 down=3 left=3 right=1 hard=0.4
-TerrainMaterial 		image="%chap%/textures/Arocb2" u=0.25 v=0.75 up=3 down=3 left=3 right=1 hard=0.4
-TerrainMaterial 		image="%chap%/textures/Arocb2" u=0.50 v=0.75 up=1 down=3 left=3 right=3 hard=0.4
-TerrainMaterial id=4 	image="%chap%/textures/Arocb2" u=0.75 v=0.75 up=3 down=3 left=3 right=3 hard=0.0
+TerrainMaterial id=3 	image="%chap%/textures/Aroca2" u=0.00 v=0.00 up=1 down=1 left=1 right=1 hard=0.8
+TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.25 v=0.00 up=3 down=1 left=1 right=1 hard=0.4
+TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.50 v=0.00 up=1 down=1 left=1 right=3 hard=0.4
+TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.75 v=0.00 up=3 down=1 left=1 right=3 hard=0.4
+TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.00 v=0.25 up=1 down=3 left=1 right=1 hard=0.4
+TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.25 v=0.25 up=3 down=3 left=1 right=1 hard=0.4
+TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.50 v=0.25 up=1 down=3 left=1 right=3 hard=0.4
+TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.75 v=0.25 up=3 down=3 left=1 right=3 hard=0.4
+TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.00 v=0.50 up=1 down=1 left=3 right=1 hard=0.4
+TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.25 v=0.50 up=3 down=1 left=3 right=1 hard=0.4
+TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.50 v=0.50 up=1 down=1 left=3 right=3 hard=0.4
+TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.75 v=0.50 up=3 down=1 left=3 right=3 hard=0.4
+TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.00 v=0.75 up=1 down=3 left=3 right=1 hard=0.4
+TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.25 v=0.75 up=3 down=3 left=3 right=1 hard=0.4
+TerrainMaterial 		image="%chap%/textures/Aroca2" u=0.50 v=0.75 up=1 down=3 left=3 right=3 hard=0.4
+TerrainMaterial id=4 	image="%chap%/textures/Aroca2" u=0.75 v=0.75 up=3 down=3 left=3 right=3 hard=0.0
 
 TerrainInit 	id=3
 TerrainLevel 	id=1 	min= 0.0 	max=99.0 	slope=0.0 	freq= 50.0 // roc1
@@ -85,19 +85,18 @@ BeginObject
 //Geral
 CreateObject pos=02;02 	dir=1.5     type=Me 	range=200 	power=100
 
-CreateObject pos=40;40	dir=8		type=SpaceShip script1="%lvl%/teste.txt" run=0
-
 //Flags 
 CreateObject pos=00;00 	dir=1.0		type=RedFlag 
 //CreateObject pos=80.00;80.00 	dir=1.0		type=RedFlag 
 
 //Bots
-CreateObject pos=-02;02 		dir=1.5  	type=TrackedGrabber 	run=1
+//CreateObject pos=-02;02 		dir=1.5  	type=TrackedGrabber 	run=1
+CreateObject pos=-10;-10 		dir=1.5  	type=WheeledSniffer 	run=1
 
 
 //Transportable objects
 CreateObject pos=80.00;80.00 	dir=1.7 	type=BlackBox
-
+CreateObject pos=-300;-300 	dir=1.7 	type=BlackBox
 //CreateObject pos=0;0 type=MissionController script1="%lvl%/GrabberChecker.txt" run=1 selectable=0
 //CreateObject pos=0;0			type=MissionController	script1="%lvl%/TimeEndMission.txt"	run=1	selectable=0
 
@@ -141,7 +140,6 @@ DoneResearch type=SUBBER
 EndMissionTake pos=0.00;0.00 	dist=25000.00 	type=Me		lost=0
 EndMissionTake pos=0.00;0.00 	dist=25000.00 	type=BlackBox 	lost=0
 EndMissionTake pos=0.00;0.00	dist=10			type=BlackBox 	min=1
-EndMissionTake pos=0.00;0.00 	dist=25000.00 	type=SpaceShip 	lost=0
 
 Camera eye=0.00;5.00;0.00 lookat=0.00;1.00;0.00 delay=0
 

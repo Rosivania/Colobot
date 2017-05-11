@@ -9,9 +9,15 @@ extern void object::TimeEndMission()
 	while(true)
 	{
 				
+		time = abstime();
+		message("You survived for "+time+" seconds",3);
+		wait(2);
+		if(time >= timeLife ){
 			Space.takeoff ( );
 			break;
-
+		}
 	}
 	
 }
+
+
