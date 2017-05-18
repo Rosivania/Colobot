@@ -1,5 +1,5 @@
-Title.E      	text="Coletar objetos em locais especificos"
-Resume.E     	text="A missão inical é coletar objetos em locais especificos no terreno."
+Title.E      	text="To finish their mission2"
+Resume.E     	text="Find out what happened to previous expedition, and collect some organic samples to finish their mission."
 ScriptName.E 	text="Main"
 
 Instructions 	name="%lvl%/help.%lng%.txt"
@@ -86,12 +86,12 @@ BeginObject
 CreateObject pos=02;02 	dir=1.5     type=Me 	range=200 	power=100
 
 //Flags 
-//CreateObject pos=00;00 	dir=1.0		type=RedFlag 
+CreateObject pos=00;00 	dir=1.0		type=RedFlag 
 //CreateObject pos=80.00;80.00 	dir=1.0		type=RedFlag 
 
 //Bots
-CreateObject pos=-02;02 		dir=1.5  	type=TrackedGrabber 	run=1
-//CreateObject pos=-10;-10 		dir=1.5  	type=WheeledSniffer 	run=1
+//CreateObject pos=-02;02 		dir=1.5  	type=TrackedGrabber 	run=1
+CreateObject pos=-10;-10 		dir=1.5  	type=WheeledSniffer 	run=1
 
 
 //Transportable objects
