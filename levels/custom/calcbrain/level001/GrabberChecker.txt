@@ -1,0 +1,21 @@
+extern void object::GrabberChecker()
+{
+
+	
+	while(true)
+	{
+		object grabber = radar (WheeledGrabber);
+		if(grabber == null)
+		{
+			
+			
+			wait(6);
+			produce(position,orientation,UraniumOre);
+			wait(2);
+			
+		}
+		
+	}
+	
+}
+
